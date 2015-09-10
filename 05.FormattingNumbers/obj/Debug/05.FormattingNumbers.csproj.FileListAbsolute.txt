@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb

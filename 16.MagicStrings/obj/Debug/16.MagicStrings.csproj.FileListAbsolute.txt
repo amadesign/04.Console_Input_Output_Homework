@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\16.MagicStrings\bin\Debug\16.MagicStrings.exe
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\16.MagicStrings\bin\Debug\16.MagicStrings.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\16.MagicStrings\obj\Debug\16.MagicStrings.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\16.MagicStrings\obj\Debug\16.MagicStrings.exe
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\16.MagicStrings\obj\Debug\16.MagicStrings.pdb

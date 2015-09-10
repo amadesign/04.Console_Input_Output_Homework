@@ -1,0 +1,4 @@
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\04.NumberComparer\bin\Debug\04.NumberComparer.exe
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\04.NumberComparer\bin\Debug\04.NumberComparer.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\04.NumberComparer\obj\Debug\04.NumberComparer.exe
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\04.NumberComparer\obj\Debug\04.NumberComparer.pdb

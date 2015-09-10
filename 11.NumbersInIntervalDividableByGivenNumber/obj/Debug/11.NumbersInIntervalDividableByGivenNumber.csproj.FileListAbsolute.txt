@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\11.NumbersInIntervalDividableByGivenNumber\bin\Debug\11.NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\11.NumbersInIntervalDividableByGivenNumber\bin\Debug\11.NumbersInIntervalDividableByGivenNumber.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\11.NumbersInIntervalDividableByGivenNumber\obj\Debug\11.NumbersInIntervalDividableByGivenNumber.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\11.NumbersInIntervalDividableByGivenNumber\obj\Debug\11.NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\11.NumbersInIntervalDividableByGivenNumber\obj\Debug\11.NumbersInIntervalDividableByGivenNumber.pdb

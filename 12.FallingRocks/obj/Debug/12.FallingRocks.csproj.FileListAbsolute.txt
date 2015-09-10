@@ -1,0 +1,4 @@
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\12.FallingRocks\bin\Debug\12.FallingRocks.exe
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\12.FallingRocks\bin\Debug\12.FallingRocks.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\12.FallingRocks\obj\Debug\12.FallingRocks.exe
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\12.FallingRocks\obj\Debug\12.FallingRocks.pdb

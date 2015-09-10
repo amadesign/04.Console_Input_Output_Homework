@@ -1,0 +1,4 @@
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.exe
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\07.SumOfFiveNumbers\obj\Debug\07.SumOfFiveNumbers.exe
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\07.SumOfFiveNumbers\obj\Debug\07.SumOfFiveNumbers.pdb

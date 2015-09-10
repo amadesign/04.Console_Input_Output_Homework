@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\17.CatchThBits\bin\Debug\17.CatchThBits.exe
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\17.CatchThBits\bin\Debug\17.CatchThBits.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\17.CatchThBits\obj\Debug\17.CatchThBits.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\17.CatchThBits\obj\Debug\17.CatchThBits.exe
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\17.CatchThBits\obj\Debug\17.CatchThBits.pdb

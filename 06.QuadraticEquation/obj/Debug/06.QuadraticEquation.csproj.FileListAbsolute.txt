@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb

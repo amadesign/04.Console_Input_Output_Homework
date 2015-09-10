@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.csprojResolveAssemblyReference.cache

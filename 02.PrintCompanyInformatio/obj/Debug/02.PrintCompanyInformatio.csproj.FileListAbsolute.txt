@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\02.PrintCompanyInformatio\bin\Debug\02.PrintCompanyInformatio.exe
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\02.PrintCompanyInformatio\bin\Debug\02.PrintCompanyInformatio.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\02.PrintCompanyInformatio\obj\Debug\02.PrintCompanyInformatio.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\02.PrintCompanyInformatio\obj\Debug\02.PrintCompanyInformatio.exe
+C:\Users\Raia\Desktop\Софтуни Курс\04.Console_Input_Output_Homework\02.PrintCompanyInformatio\obj\Debug\02.PrintCompanyInformatio.pdb
